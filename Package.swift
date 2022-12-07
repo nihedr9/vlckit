@@ -1,3 +1,5 @@
+// swift-tools-version: 5.7
+
 let tvPackate = Package(
     name: "VLCKit",
     products: [
